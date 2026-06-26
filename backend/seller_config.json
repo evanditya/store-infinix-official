@@ -1,0 +1,26 @@
+{
+  "username": "infinix.official",
+  "seller_name": "Infinix Official Shop",
+  "email": "",
+  "phone": "",
+  "profile_picture": null,
+  "brand_colors": [
+    "#111827",
+    "#ef4444"
+  ],
+  "domain": "",
+  "area_id": "",
+  "postal_code": "",
+  "city": "",
+  "province": "",
+  "pickup_enabled": false,
+  "pickup_open_time": "08:00",
+  "pickup_close_time": "17:00",
+  "pickup_days": [
+    "Senin",
+    "Selasa",
+    "Rabu",
+    "Kamis",
+    "Jumat"
+  ]
+}
